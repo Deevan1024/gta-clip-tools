@@ -33,4 +33,4 @@ gta-clip-tools/
 - Thumbnail generator
 
 ## Author
-Deevan - [YouTube channel link here]
+Deevan - https://youtube.com/@gta_vi_john12?si=hzlbJChib1gllV_7
